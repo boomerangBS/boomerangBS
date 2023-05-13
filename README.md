@@ -7,13 +7,15 @@
 
 -python
 
+-php
+
 -javascript(noob)
 
--html(noob)
+-html
 
 ### link
 
--scratch scratch.mit.edu/users/boomerangBS
+-discord boomerangBS#0001 (905509090011279433)
 
 -replit replit.com/@boomerangBS
 
