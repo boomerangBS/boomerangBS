@@ -20,6 +20,8 @@
 -replit replit.com/@boomerangBS
 
 #### bye
+![Stats](https://github-readme-stats.vercel.app/api?username=boomerangBS&count_private=true&show_icons=true&theme=highcontrast)
+
 
 ```
 /follow_@boomerangBS
