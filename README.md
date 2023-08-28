@@ -3,9 +3,7 @@
 
  ### language:
 
--scratch
-
--python
+-python (discord.py ❤️)
 
 -php
 
@@ -13,9 +11,11 @@
 
 -html
 
+-scratch
+
 ### link
 
--discord boomerangBS#0001 (905509090011279433)
+-discord boomerangBS (905509090011279433)
 
 -replit replit.com/@boomerangBS
 
