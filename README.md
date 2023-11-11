@@ -25,6 +25,9 @@
 
 [![](https://visitcount.itsvg.in/api?id=BoomerangBS&label=Profile%20Views&color=12&icon=5&pretty=false)]
 
+![GitHub User's stars](https://img.shields.io/github/stars/boomerangbs)
+
+
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/905509090011279433)](https://discord.com/users/905509090011279433)
 ```
