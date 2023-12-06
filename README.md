@@ -1,39 +1,23 @@
-# hello
-⭐welcome to my profile⭐
+# Hi there
 
- ### language:
-
--python (discord.py ❤️)
-
--php
-
--javascript(noob)
-
--html
-
--scratch
-
-### link
-
--discord boomerangBS (905509090011279433)
-
--replit replit.com/@boomerangBS
-
-#### bye
-![Stats](https://github-readme-stats.vercel.app/api?username=boomerangBS&count_private=true&show_icons=true&theme=highcontrast)
+I am a French programmer who enjoys creating **Discord bots** and **APIs with PHP**. Additionally, I am a **system administrator** and own a **self-hosted server** and a **hosting company**.
 
 
-![](https://visitcount.itsvg.in/api?id=BoomerangBS&label=Profile%20Views&color=12&icon=5&pretty=false)
+## Technologies I use
 
-![GitHub User's stars](https://img.shields.io/github/stars/boomerangbs)
+<p>
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=FCC624" />
+ <img alt="debian" src="https://img.shields.io/badge/debian-%23A81D33.svg?&style=for-the-badge&logo=debian&logoColor=white" />
+  <img alt="Proxmox" src="https://img.shields.io/badge/-Proxmox-informational?style=for-the-badge&logo=proxmox&logoColor=white&color=E57000" />
+ <img alt="cloudflare" src="https://img.shields.io/badge/cloudflare-%23F38020.svg?&style=for-the-badge&logo=cloudflare&logoColor=white" />
+ <img alt="pfsense" src="https://img.shields.io/badge/pfsense-%23212121.svg?&style=for-the-badge&logo=pfsense&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=2496ED" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-informational?style=for-the-badge&logo=git&logoColor=white&color=F05032" />
+  <img alt="HTML" src="https://img.shields.io/badge/-HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=E34F26" />
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=1572B6" />
+  <img alt="Php" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" />
 
-
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/905509090011279433)](https://discord.com/users/905509090011279433)
-```
-/follow_@boomerangBS
-```
-<!---
-boomerangBS/boomerangBS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  <br />
+  <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-informational?style=for-the-badge&logo=sqlite&logoColor=white&color=47A248" />
+  <img alt="mariadb" src="https://img.shields.io/badge/mariadb-%23003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white" />
+</p>
