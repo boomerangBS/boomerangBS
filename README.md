@@ -23,6 +23,8 @@ I am a French programmer who enjoys creating **Discord bots** and **APIs with PH
 </p>
 
 ## Bye
-Here are some stats for you ❤️
+Here is some stats for you ❤️
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=boomerangBS&count_private=true&show_icons=true&theme=highcontrast)
+
 ![](https://visitcount.itsvg.in/api?id=BoomerangBS&label=Profile%20Views&color=12&icon=5&pretty=false)
