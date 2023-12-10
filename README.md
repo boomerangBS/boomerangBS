@@ -12,10 +12,18 @@ I am a French programmer who enjoys creating **Discord bots** and **APIs with PH
  <img alt="cloudflare" src="https://img.shields.io/badge/cloudflare-%23F38020.svg?&style=for-the-badge&logo=cloudflare&logoColor=white" />
  <img alt="pfsense" src="https://img.shields.io/badge/pfsense-%23212121.svg?&style=for-the-badge&logo=pfsense&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=2496ED" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-informational?style=for-the-badge&logo=git&logoColor=white&color=F05032" />
+  <br />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="discord.py" src="https://img.shields.io/badge/discord.py-blue.svg?&style=for-the-badge&logo=discord&logoColor=white">
+  <img alt="" src="">
   <img alt="HTML" src="https://img.shields.io/badge/-HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=E34F26" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=1572B6" />
   <img alt="Php" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" />
+  <br />
+  <img alt="VScode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <img alt="Replit" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white">
+  <img alt="MarkDown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+  <img alt="git" src="https://img.shields.io/badge/-Git-informational?style=for-the-badge&logo=git&logoColor=white&color=F05032" />
 
   <br />
   <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-informational?style=for-the-badge&logo=sqlite&logoColor=white&color=47A248" />
@@ -25,6 +33,6 @@ I am a French programmer who enjoys creating **Discord bots** and **APIs with PH
 ## Bye
 Here is some stats for you ❤️
 
-![Stats](https://github-readme-stats.vercel.app/api?username=boomerangBS&count_private=true&show_icons=true&theme=highcontrast)
+![stats](https://github-readme-stats.vercel.app/api?username=boomerangBS&count_private=true&show_icons=true&theme=highcontrast)
 
-![](https://visitcount.itsvg.in/api?id=BoomerangBS&label=Profile%20Views&color=12&icon=5&pretty=false)
+[![](https://visitcount.itsvg.in/api?id=BoomerangBS&label=Profile%20Views&color=12&icon=1&pretty=true)](https://visitcount.itsvg.in)
