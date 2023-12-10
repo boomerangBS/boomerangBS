@@ -1,6 +1,6 @@
 # Hi there
 
-I am a French programmer who enjoys creating **Discord bots** and **APIs with PHP**. Additionally, I am a **system administrator** and own a **self-hosted server** and a **hosting company**.
+I am a French programmer who enjoys creating **Discord bots** and **APIs with PHP**. Additionally, I am a **system administrator** and i own a **self-hosted server** and a **hosting company**.
 
 
 ## Technologies I use
