@@ -15,6 +15,7 @@ I am a French programmer who enjoys creating **Discord bots** and **APIs with PH
   <br />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img alt="discord.py" src="https://img.shields.io/badge/discord.py-blue.svg?&style=for-the-badge&logo=discord&logoColor=white">
+  <img alt="interactions.py" src="https://img.shields.io/badge/interactions.py-blue.svg?&style=for-the-badge&logo=discord&logoColor=white">
   <img alt="" src="">
   <img alt="HTML" src="https://img.shields.io/badge/-HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=E34F26" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=1572B6" />
