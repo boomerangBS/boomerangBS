@@ -1,7 +1,7 @@
 # Hi there
 
 I am a French programmer who enjoys creating **Advanced Discord bots**, **Flask Web apps** and Various things. 
-Additionally, I am a **system administrator** and i own <a href="https://www.recloud.fr">Recloud</a>.
+Additionally, I am a **system administrator** and i own <a href="https://www.zenyx.eu">Zenyx</a>.
 
 
 ## Technologies I use
